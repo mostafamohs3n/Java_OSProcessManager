@@ -4,13 +4,13 @@
 
  ## Minimal process manager that:
 <ul>
- <li>List all the processes in the system.</li>
+ <li>Lists all the processes in the system.</li>
  
- <li>List all the processes grouped by user.</li>
+ <li>Lists all the processes grouped by user.</li>
  
- <li>Display process ID of all the processes.</li>
+ <li>Displays process ID of all the processes.</li>
  
- <li>Run/stop a specific process</li>
+ <li>Runs/stops a specific process</li>
  
- <li>Send specific signals to specific process.</li>
+ <li>Sends specific signals to specific process.</li>
 </ul>
