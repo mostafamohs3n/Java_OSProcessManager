@@ -3,8 +3,14 @@
 ```Java, Java Swing```
 
  ## Minimal process manager that:
-    A. List all the processes in the system.
-    B. List all the processes grouped by user.
-    C. Display process ID of all the processes.
-    D. Run/stop a specific process
-    E. Send specific signals to specific process.
+<ul>
+ <li>List all the processes in the system.</li>
+ 
+ <li>List all the processes grouped by user.</li>
+ 
+ <li>Display process ID of all the processes.</li>
+ 
+ <li>Run/stop a specific process</li>
+ 
+ <li>Send specific signals to specific process.</li>
+</ul>
