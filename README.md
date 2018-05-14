@@ -1,4 +1,4 @@
-# Java Ubuntu Minimal ProcessManager
+# Java Minimal Process Manager (Ubuntu)
 ## Technologies Used:
 ```Java, Java Swing```
 
